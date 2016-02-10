@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T16:05:18.761Z'
-dateModified: '2016-02-10T16:04:56.272Z'
+datePublished: '2016-02-10T16:23:32.280Z'
+dateModified: '2016-02-10T16:13:51.470Z'
 title: Phantom/Limb
 author: []
+sourcePath: _posts/2016-02-10-phantomlimb.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-10-phantomlimb.md
-published: true
 url: phantomlimb/index.html
 _type: Article
 
