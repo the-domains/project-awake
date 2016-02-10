@@ -1,0 +1,28 @@
+name: '|| Project Awake ||'
+favicon: null
+layout_spectrum: 0.2475
+typography_spectrum: 1
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#2d2b31'
+    - '#6f716b'
+    - '#aba99c'
+    - '#dcd0c1'
+    - '#faf0e6'
+  brandStrength: 0.6875
+  lightness: 0.25
+  saturation: 0.875
+  rhythmicContrast: 0.75
+purpose: []
