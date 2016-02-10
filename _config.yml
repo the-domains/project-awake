@@ -1,7 +1,7 @@
 name: '|| Project Awake ||'
 favicon: null
-layout_spectrum: 0.3102618004195392
-typography_spectrum: 0.5764549130108207
+layout_spectrum: 0.2475
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.4940152026247233
-  lightness: 0.08296098024584353
-  saturation: 0.824207104742527
-  rhythmicContrast: 0.6935179259162396
+    - '#2d2b31'
+    - '#6f716b'
+    - '#aba99c'
+    - '#dcd0c1'
+    - '#faf0e6'
+  brandStrength: 0.6875
+  lightness: 0.4375
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []
