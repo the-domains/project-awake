@@ -1,5 +1,7 @@
-favicon: null
-name: '|| Project Awake ||'
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -10,31 +12,29 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0.7277121
 color:
   saturation: 0.792159
   brandStrength: 0.6875
-  lightness: 0.2250268
+  rhythmicContrast: 0.8233083
   brandColors:
     - '#2d2b31'
     - '#6f716b'
     - '#aba99c'
     - '#dcd0c1'
     - '#faf0e6'
-  rhythmicContrast: 0.8233083
-typography_spectrum: 0.8899033
-layout_spectrum: 0.7277121
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  lightness: 0.2250268
+purpose: []
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
+name: '|| Project Awake ||'
+typography_spectrum: 0.8899033
