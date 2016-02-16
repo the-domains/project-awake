@@ -3,27 +3,25 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-16T16:56:52.269Z'
-dateModified: '2016-02-16T16:56:40.900Z'
+datePublished: '2016-02-16T20:02:14.764Z'
+dateModified: '2016-02-16T20:02:04.431Z'
 title: In Our Chest
 author: []
+sourcePath: _posts/2016-02-16-in-our-chest.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-16-in-our-chest.md
-published: true
 url: in-our-chest/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/32510269-9163-4bb2-be72-242f5c320e37.jpg)
-
 # In Our Chest
 
 \[I\]
@@ -317,3 +315,5 @@ Into the comfort of our shadow.
 & there is comfort.
 
 Finally in our------
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9c993a4-3e6d-451b-b740-316cb4bddc44.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/08773e7a-fdb1-4209-9294-f5fd06ac9ba7.jpg)
