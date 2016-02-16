@@ -1,7 +1,7 @@
 name: '|| Project Awake ||'
 favicon: null
-layout_spectrum: 0.88704
-typography_spectrum: 0.9068
+layout_spectrum: 1
+typography_spectrum: 0.89741
 collections:
   - index:
       path: /
